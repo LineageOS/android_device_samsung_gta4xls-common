@@ -119,6 +119,9 @@ vendor/lib/egl/libGLES_mali.so;SYMLINK=vendor/lib/libOpenCL.so;SYMLINK=vendor/li
 vendor/lib64/egl/libGLES_mali.so;SYMLINK=vendor/lib64/libOpenCL.so;SYMLINK=vendor/lib64/libOpenCL.so.1;SYMLINK=vendor/lib64/libOpenCL.so.1.1
 vendor/lib/hw/vulkan.mali.so
 vendor/lib64/hw/vulkan.mali.so
+vendor/lib64/libdpuhdr10p_8825.so
+vendor/lib64/libhdr10p_meta_plugin_default.so
+vendor/lib64/libhdr_plugin_exynos8825.so
 
 ## Keymint
 vendor/bin/hw/android.hardware.security.keymint-service:vendor/bin/hw/android.hardware.security.keymint-service.samsung
