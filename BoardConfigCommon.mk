@@ -165,6 +165,8 @@ TARGET_BOARD_PLATFORM := universal8825
 TARGET_BOOTLOADER_BOARD_NAME := s5e8825
 TARGET_SOC := s5e8825
 include hardware/samsung_slsi-linaro/config/BoardConfig8825.mk
+BOARD_LIBHDR_PLUGIN ?= //vendor/samsung/gta4xls-common:libhdr_plugin_exynos8825
+BOARD_LIBHDR10P_META_PLUGIN ?= //vendor/samsung/gta4xls-common:libhdr10p_meta_plugin_default
 
 ## Properties
 TARGET_VENDOR_PROP += $(COMMON_PATH)/vendor.prop
