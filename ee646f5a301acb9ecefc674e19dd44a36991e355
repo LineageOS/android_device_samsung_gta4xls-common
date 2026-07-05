@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "eb542ec1_72afaec6",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 36705
+      },
+      "writtenOn": "2026-07-05T23:49:21Z",
+      "side": 1,
+      "message": "I can only blindly assume this works on gta4xls. It\u0027s working fine on a53x and a25x (they have the same SoC).",
+      "revId": "ee646f5a301acb9ecefc674e19dd44a36991e355",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
