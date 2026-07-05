@@ -88,10 +88,6 @@ PRODUCT_PACKAGES += \
     libExynosC2Vp8Dec \
     libExynosC2Vp8Enc
 
-PRODUCT_PACKAGES += \
-    codec2.vendor.base.policy \
-    codec2.vendor.ext.policy
-
 # ConfigStore
 PRODUCT_PACKAGES += \
     disable_configstore
