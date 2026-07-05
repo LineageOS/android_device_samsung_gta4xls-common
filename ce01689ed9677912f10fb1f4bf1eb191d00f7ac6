@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "30514f18_44768a9c",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 36705
+      },
+      "writtenOn": "2026-07-05T23:43:09Z",
+      "side": 1,
+      "message": "I am blindly assuming this works here. I don\u0027t have free space to build with gta4xls device trees.",
+      "revId": "ce01689ed9677912f10fb1f4bf1eb191d00f7ac6",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
