@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "1cfca527_37f23525",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 36705
+      },
+      "writtenOn": "2026-07-06T16:54:35Z",
+      "side": 1,
+      "message": "Once again https://review.lineageos.org/c/LineageOS/android_device_samsung_gta4xls-common/+/493343/comments/eb542ec1_72afaec6",
+      "revId": "0a1c768b4a094be82ad3291175b91c5764d93076",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
