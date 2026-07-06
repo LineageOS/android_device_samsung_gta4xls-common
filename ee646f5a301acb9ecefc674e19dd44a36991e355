@@ -33,6 +33,24 @@
       "message": "manifest.xml is using HIDL C2",
       "revId": "ee646f5a301acb9ecefc674e19dd44a36991e355",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "e24bad06_3a55cb4d",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 36705
+      },
+      "writtenOn": "2026-07-06T16:54:27Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "e0713aad_5cf37f4f",
+      "revId": "ee646f5a301acb9ecefc674e19dd44a36991e355",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
