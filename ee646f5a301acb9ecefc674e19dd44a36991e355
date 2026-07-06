@@ -16,6 +16,23 @@
       "message": "I can only blindly assume this works on gta4xls. It\u0027s working fine on a53x and a25x (they have the same SoC).",
       "revId": "ee646f5a301acb9ecefc674e19dd44a36991e355",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "e0713aad_5cf37f4f",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 36705
+      },
+      "writtenOn": "2026-07-06T11:33:50Z",
+      "side": 1,
+      "message": "manifest.xml is using HIDL C2",
+      "revId": "ee646f5a301acb9ecefc674e19dd44a36991e355",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
